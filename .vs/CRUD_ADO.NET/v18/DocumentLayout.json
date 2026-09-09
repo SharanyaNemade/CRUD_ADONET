@@ -1,0 +1,147 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Dapper\\CRUD_ADO.NET\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E475DC98-C0ED-4571-B4C3-3DF11194BC39}|CRUD_ADO.NET\\CRUD_ADO.NET.csproj|d:\\dapper\\crud_ado.net\\crud_ado.net\\service\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E475DC98-C0ED-4571-B4C3-3DF11194BC39}|CRUD_ADO.NET\\CRUD_ADO.NET.csproj|solutionrelative:crud_ado.net\\service\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E475DC98-C0ED-4571-B4C3-3DF11194BC39}|CRUD_ADO.NET\\CRUD_ADO.NET.csproj|d:\\dapper\\crud_ado.net\\crud_ado.net\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E475DC98-C0ED-4571-B4C3-3DF11194BC39}|CRUD_ADO.NET\\CRUD_ADO.NET.csproj|solutionrelative:crud_ado.net\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E475DC98-C0ED-4571-B4C3-3DF11194BC39}|CRUD_ADO.NET\\CRUD_ADO.NET.csproj|d:\\dapper\\crud_ado.net\\crud_ado.net\\repository\\iemployeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E475DC98-C0ED-4571-B4C3-3DF11194BC39}|CRUD_ADO.NET\\CRUD_ADO.NET.csproj|solutionrelative:crud_ado.net\\repository\\iemployeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E475DC98-C0ED-4571-B4C3-3DF11194BC39}|CRUD_ADO.NET\\CRUD_ADO.NET.csproj|d:\\dapper\\crud_ado.net\\crud_ado.net\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E475DC98-C0ED-4571-B4C3-3DF11194BC39}|CRUD_ADO.NET\\CRUD_ADO.NET.csproj|solutionrelative:crud_ado.net\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E475DC98-C0ED-4571-B4C3-3DF11194BC39}|CRUD_ADO.NET\\CRUD_ADO.NET.csproj|d:\\dapper\\crud_ado.net\\crud_ado.net\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E475DC98-C0ED-4571-B4C3-3DF11194BC39}|CRUD_ADO.NET\\CRUD_ADO.NET.csproj|solutionrelative:crud_ado.net\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E475DC98-C0ED-4571-B4C3-3DF11194BC39}|CRUD_ADO.NET\\CRUD_ADO.NET.csproj|d:\\dapper\\crud_ado.net\\crud_ado.net\\crud_ado.net.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E475DC98-C0ED-4571-B4C3-3DF11194BC39}|CRUD_ADO.NET\\CRUD_ADO.NET.csproj|solutionrelative:crud_ado.net\\crud_ado.net.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E475DC98-C0ED-4571-B4C3-3DF11194BC39}|CRUD_ADO.NET\\CRUD_ADO.NET.csproj|d:\\dapper\\crud_ado.net\\crud_ado.net\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E475DC98-C0ED-4571-B4C3-3DF11194BC39}|CRUD_ADO.NET\\CRUD_ADO.NET.csproj|solutionrelative:crud_ado.net\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 412,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EmployeesController.cs",
+              "DocumentMoniker": "D:\\Dapper\\CRUD_ADO.NET\\CRUD_ADO.NET\\Controllers\\EmployeesController.cs",
+              "RelativeDocumentMoniker": "CRUD_ADO.NET\\Controllers\\EmployeesController.cs",
+              "ToolTip": "D:\\Dapper\\CRUD_ADO.NET\\CRUD_ADO.NET\\Controllers\\EmployeesController.cs",
+              "RelativeToolTip": "CRUD_ADO.NET\\Controllers\\EmployeesController.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwCgAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-09T14:51:25.488Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Dapper\\CRUD_ADO.NET\\CRUD_ADO.NET\\Program.cs",
+              "RelativeDocumentMoniker": "CRUD_ADO.NET\\Program.cs",
+              "ToolTip": "D:\\Dapper\\CRUD_ADO.NET\\CRUD_ADO.NET\\Program.cs",
+              "RelativeToolTip": "CRUD_ADO.NET\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-09T14:48:05.963Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmployeeService.cs",
+              "DocumentMoniker": "D:\\Dapper\\CRUD_ADO.NET\\CRUD_ADO.NET\\Service\\EmployeeService.cs",
+              "RelativeDocumentMoniker": "CRUD_ADO.NET\\Service\\EmployeeService.cs",
+              "ToolTip": "D:\\Dapper\\CRUD_ADO.NET\\CRUD_ADO.NET\\Service\\EmployeeService.cs",
+              "RelativeToolTip": "CRUD_ADO.NET\\Service\\EmployeeService.cs",
+              "ViewState": "AgIAAHEAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-09T14:47:58.968Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IEmployeeRepository.cs",
+              "DocumentMoniker": "D:\\Dapper\\CRUD_ADO.NET\\CRUD_ADO.NET\\Repository\\IEmployeeRepository.cs",
+              "RelativeDocumentMoniker": "CRUD_ADO.NET\\Repository\\IEmployeeRepository.cs",
+              "ToolTip": "D:\\Dapper\\CRUD_ADO.NET\\CRUD_ADO.NET\\Repository\\IEmployeeRepository.cs",
+              "RelativeToolTip": "CRUD_ADO.NET\\Repository\\IEmployeeRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-09T14:47:17.152Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CRUD_ADO.NET",
+              "DocumentMoniker": "D:\\Dapper\\CRUD_ADO.NET\\CRUD_ADO.NET\\CRUD_ADO.NET.csproj",
+              "RelativeDocumentMoniker": "CRUD_ADO.NET\\CRUD_ADO.NET.csproj",
+              "ToolTip": "D:\\Dapper\\CRUD_ADO.NET\\CRUD_ADO.NET\\CRUD_ADO.NET.csproj",
+              "RelativeToolTip": "CRUD_ADO.NET\\CRUD_ADO.NET.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-09-09T14:40:51.577Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Dapper\\CRUD_ADO.NET\\CRUD_ADO.NET\\appsettings.json",
+              "RelativeDocumentMoniker": "CRUD_ADO.NET\\appsettings.json",
+              "ToolTip": "D:\\Dapper\\CRUD_ADO.NET\\CRUD_ADO.NET\\appsettings.json",
+              "RelativeToolTip": "CRUD_ADO.NET\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-09-09T14:42:55.817Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "D:\\Dapper\\CRUD_ADO.NET\\CRUD_ADO.NET\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "CRUD_ADO.NET\\Models\\Employee.cs",
+              "ToolTip": "D:\\Dapper\\CRUD_ADO.NET\\CRUD_ADO.NET\\Models\\Employee.cs",
+              "RelativeToolTip": "CRUD_ADO.NET\\Models\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-09T14:41:28.879Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
