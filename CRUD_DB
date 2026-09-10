@@ -1,0 +1,58 @@
+CREATE PROCEDURE sp_GetEmployees
+AS
+BEGIN
+    SELECT EmployeeId, Name, Email, Department, Salary
+    FROM Employee
+    ORDER BY EmployeeId DESC;
+END
+GO
+
+CREATE PROCEDURE sp_GetEmployeeById
+    @EmployeeId INT
+AS
+BEGIN
+    SELECT EmployeeId, Name, Email, Department, Salary
+    FROM Employee
+    WHERE EmployeeId = @EmployeeId;
+END
+GO
+
+CREATE PROCEDURE sp_CreateEmployee
+    @Name NVARCHAR(100),
+    @Email NVARCHAR(150),
+    @Department NVARCHAR(100),
+    @Salary DECIMAL(18,2)
+AS
+BEGIN
+    INSERT INTO Employees(Name, Email, Department, Salary)
+    VALUES(@Name, @Email, @Department, @Salary);
+
+    SELECT CAST(SCOPE_IDENTITY() AS INT);
+END
+GO
+
+CREATE PROCEDURE sp_UpdateEmployee
+    @EmployeeId INT,
+    @Name NVARCHAR(100),
+    @Email NVARCHAR(150),
+    @Department NVARCHAR(100),
+    @Salary DECIMAL(18,2)
+AS
+BEGIN
+    UPDATE Employee
+    SET Name = @Name,
+        Email = @Email,
+        Department = @Department,
+        Salary = @Salary
+    WHERE EmployeeId = @EmployeeId;
+END
+GO
+
+CREATE PROCEDURE sp_DeleteEmployee
+    @EmployeeId INT
+AS
+BEGIN
+    DELETE FROM Employee
+    WHERE EmployeeId = @EmployeeId;
+END
+GO
